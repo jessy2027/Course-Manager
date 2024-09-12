@@ -1,1 +1,2 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]() 
+[![Github All Releases](https://img.shields.io/github/downloads/jessy2027/Course-Manager/latest/total
+)]() 
